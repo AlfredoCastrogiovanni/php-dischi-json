@@ -1,0 +1,38 @@
+[
+    {
+        "img": "newjersey.png",
+        "title": "New Jersey",
+        "author": "Bon Jovi",
+        "release": 1988
+    },
+    {
+        "img": "queen.png",
+        "title": "Live at Wembley 86",
+        "author": "Queen",
+        "release": 1992
+    },
+    {
+        "img": "sting.png",
+        "title": "Ten\"s Summoner\"s Tales",
+        "author": "Sting",
+        "release": 1993
+    },
+    {
+        "img": "gadd.png",
+        "title": "Steve Gadd band",
+        "author": "Steve Gadd Band",
+        "release": 2018
+    },
+    {
+        "img": "maiden.png",
+        "title": "Brave new World",
+        "author": "Iron Maiden",
+        "release": 2000
+    },
+    {
+        "img": "clapton.png",
+        "title": "One more car, one more rider",
+        "author": "Eric Clapton",
+        "release": 2002
+    }
+]
